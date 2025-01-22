@@ -3,9 +3,11 @@
 <p>
 <h2 align="center"> 🎨Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs</h2>
 
+> [Jie Zhang*](https://scholar.google.com.hk/citations?user=hJAhF0sAAAAJ&hl=zh-CN), [Zhongqi Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=Gi1brbgAAAAJ), [Leimeng Qi](https://scholar.google.com/citations?hl=en&user=RrmbeUgAAAAJ), [Zheng Yuan](https://scholar.google.com/citations?hl=en&user=K1wH01cAAAAJ), [Bei Yan](https://github.com/BeiiiY), [Shiguang Shan](https://scholar.google.com.hk/citations?hl=zh-CN&user=Vkzd7MIAAAAJ), [Xilin Chen](https://scholar.google.com.hk/citations?hl=zh-CN&user=vVx2v20AAAAJ)
+> 
+> *Corresponding Author
 
-<h4 align="center"> 🎉If you like our project, please give us a star ⭐ on GitHub for latest update.  </h4>
-
+We propose a benchmark where we leverage Stable Diffusion and design a rule-based method to dynamically generate novel images, questions and the corresponding answers.
 
 ## Overview🔍
 <div>
