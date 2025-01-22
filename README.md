@@ -9,6 +9,10 @@
 
 We propose a benchmark where we leverage Stable Diffusion and design a rule-based method to dynamically generate novel images, questions and the corresponding answers.
 
+## 🔥 News
+
+- [2025/1/22] Our work has been accepted by ICLR2025!
+
 ## Overview🔍
 <div>
     <img src="./figure/dysca_framework.svg" width="96%" height="96%">
@@ -205,6 +209,23 @@ Here are some examples of the images, prompts, questions and ground truth answer
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [Shikra](https://github.com/shikras/shikra)
 - [InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer)
+
+## 📄 Citation
+
+If you find this project useful in your research, please consider cite:
+```
+@misc{zhang2024dyscadynamicscalablebenchmark,
+      title={Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs}, 
+      author={Jie Zhang and Zhongqi Wang and Mengqi Lei and Zheng Yuan and Bei Yan and Shiguang Shan and Xilin Chen},
+      year={2024},
+      eprint={2406.18849},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.18849}, 
+}
+```
+
+🤝 Feel free to discuss with us privately!
 
 
 
