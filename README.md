@@ -6,6 +6,8 @@
 
 We propose a benchmark where we leverage Stable Diffusion and design a rule-based method to dynamically generate novel images, questions and the corresponding answers.
 
+Full data will be uploaded soon~
+
 ## 🔥 News
 
 - [2025/1/22] Our work has been accepted by ICLR2025!
