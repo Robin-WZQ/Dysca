@@ -11,7 +11,7 @@ Full data will be uploaded soon~
 ## 🔥 News
 
 - [2025/1/22] Our work has been accepted by ICLR2025!
-- [2025/1724] We upload the newest version of Dysca in Arxiv.
+- [2025/1/24] We upload the newest version of Dysca in Arxiv.
 
 ## 🔍 Overview
 <div>
@@ -199,6 +199,9 @@ Here are some examples of the images, prompts, questions and ground truth answer
 <img src="figure/landmark.svg">
 <br>    </br>
 
+## How to use it
+
+We provide the detailed introduction and instruction on [Wiki](https://github.com/Robin-WZQ/Dysca/wiki).
 
 ## 🔗 Related projects
 - [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
