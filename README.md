@@ -11,6 +11,7 @@ Full data will be uploaded soon~
 ## 🔥 News
 
 - [2025/1/22] Our work has been accepted by ICLR2025!
+- [2025/1724] We upload the newest version of Dysca in Arxiv.
 
 ## 🔍 Overview
 <div>
