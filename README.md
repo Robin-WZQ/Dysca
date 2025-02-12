@@ -6,12 +6,11 @@
 
 We propose a benchmark where we leverage Stable Diffusion and design a rule-based method to dynamically generate novel images, questions and the corresponding answers.
 
-Full data will be uploaded soon~
-
 ## 🔥 News
 
 - [2025/1/22] Our work has been accepted by ICLR2025!
 - [2025/1/24] We upload the newest version of Dysca in Arxiv.
+- [2025/2/12] We release the testing images and corresponding json scripts.
 
 ## 🔍 Overview
 <div>
