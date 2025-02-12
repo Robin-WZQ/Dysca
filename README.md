@@ -199,9 +199,9 @@ Here are some examples of the images, prompts, questions and ground truth answer
 <img src="figure/landmark.svg">
 <br>    </br>
 
-## How to use it
+## Data download
 
-We provide the detailed introduction and instruction on [Wiki](https://github.com/Robin-WZQ/Dysca/wiki).
+- [Google Drive](https://drive.google.com/drive/folders/1WFnqjqIU7N97mj_o92s3ogm2kHchsY1o?usp=sharing)
 
 ## 🔗 Related projects
 - [BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
