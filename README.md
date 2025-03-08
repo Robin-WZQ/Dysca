@@ -216,14 +216,13 @@ Here are some examples of the images, prompts, questions and ground truth answer
 
 If you find this project useful in your research, please consider cite:
 ```
-@misc{zhang2024dyscadynamicscalablebenchmark,
-      title={Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs}, 
-      author={Jie Zhang and Zhongqi Wang and Mengqi Lei and Zheng Yuan and Bei Yan and Shiguang Shan and Xilin Chen},
-      year={2024},
-      eprint={2406.18849},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2406.18849}, 
+@inproceedings{
+zhang2025dysca,
+title={Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of {LVLM}s},
+author={Jie Zhang and Zhongqi Wang and Mengqi Lei and Zheng Yuan and Bei Yan and Shiguang Shan and Xilin Chen},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=bU1JOvdXXK}
 }
 ```
 
